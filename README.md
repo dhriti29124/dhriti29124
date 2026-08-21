@@ -1,4 +1,4 @@
-### Hi, I'm Dhriti 👋
+### Hi, I'm Dhriti
 
 Data-focused builder, currently working on projects that combine data analysis with automation.
 
