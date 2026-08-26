@@ -2,8 +2,8 @@
 
 Data-focused builder, currently working on projects that combine data analysis with automation.
 
-- 🔭 Currently building: an [AI Anomaly Agent](https://github.com/dhriti29124/anomaly_agent) — reads real e-commerce transaction data, cleans it, detects statistically unusual days using a weekday-aware anomaly detector, and generates plain-English alerts
-- 🌱 Practicing SQL and data problems on [LeetCode](https://leetcode.com/u/dhriti9981/)
+- Currently building: an [AI Anomaly Agent](https://github.com/dhriti29124/anomaly_agent) — reads real e-commerce transaction data, cleans it, detects statistically unusual days using a weekday-aware anomaly detector, and generates plain-English alerts
+- Practicing SQL and data problems on [LeetCode](https://leetcode.com/u/dhriti9981/)
 - 💬 Ask me about: pandas, data cleaning, anomaly detection, SQL
 
 ### Featured Project
